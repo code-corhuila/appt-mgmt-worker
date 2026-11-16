@@ -1,0 +1,9 @@
+{
+  "name": "appt-mgmt-worker-infra",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Docker Compose and AWS Terraform configuration for appt-mgmt-worker",
+  "scripts": {
+    "test": "node --test tests/infra.test.js"
+  }
+}
